@@ -1,0 +1,6 @@
+{
+  "name": "Owais Proxy Server",
+  "description": "Professional native Android SOCKS5, HTTP, and HTTPS proxy client with VPN-style tunneling, real IP geolocation, and country detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
